@@ -9,6 +9,6 @@ public class Hola {
 		String name = in.nextLine();  
 		
 		System.out.println("Hola Mundo " + name);
- 
+		
 	}
 }
